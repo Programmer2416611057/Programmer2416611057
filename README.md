@@ -7,7 +7,7 @@
 - 😺 视频：<a href="https://space.bilibili.com/12890453" target="_blank">B站 程序员</a> | 抖音 南 墙
 - 💬 微信：（请备注事由）
 - 🤔 问题：<a href="https://www.zhihu.com/people/yupi-31-97" target="_blank">知乎 无</a>
-- 👭 我的编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈子，可以向我 1 对 1问</a>
+- 👭 我的编程知识星球：<a target="_blank" href="https://yupi.icu">帮你学编程、做项目的圈</a>
 - 🛫 万人 ChatGPT 免费交流群：<a target="_blank" href="https://t.zsxq.com/0cb9vuZXi">点击链接加入，把握时代风口</a>
 
 
