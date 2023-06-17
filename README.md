@@ -1,4 +1,5 @@
-## 我是小鑫 🐟
+## 我是小鑫![008186A1](https://github.com/Programmer2416611057/Programmer2416611057/assets/127968743/111d9adc-e25b-49d7-9edc-d6d3bb6daa7a)
+
 
 - 🐧 大二学生，万粉知识博主
 - 👨‍💻 经历：<a href="https://www.bilibili.com/read/cv11481506" target="_blank">关于我，02线程序员小 UP</a>
